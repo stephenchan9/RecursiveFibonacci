@@ -1,6 +1,8 @@
 Stephen Chan
 Assignment 2 Recursive Fibonacci
-The program prompts user to enter a value and recursively calculates the fibonacci values.
+
+This is a continuation of assignment 1 requiring a user to generate a fibonacci sequence.
+The program prompts user to enter a value and recursively calculates the fibonacci values of all numbers up to that value.
 
 How to run the program.
 
